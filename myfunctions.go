@@ -1,5 +1,5 @@
 // layouts/myfunctions.go
-package main
+package github.com/thorstenkloehn/hallo_welt
 
 import "fmt"
 
